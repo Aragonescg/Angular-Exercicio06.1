@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    background-color: blueviolet;
+}
+
+.grow {
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#input {
+    width: 330px;
+}
+
+#btn {
+    width: 700px;
+}
